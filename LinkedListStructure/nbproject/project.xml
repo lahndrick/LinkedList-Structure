@@ -6,6 +6,8 @@
             <name>LinkedListStructure</name>
             <source-roots>
                 <root id="src.dir"/>
+                <root id="src.dist.dir"/>
+                <root id="src.build.dir"/>
             </source-roots>
             <test-roots>
                 <root id="test.src.dir"/>
