@@ -1,5 +1,3 @@
-package linkedliststructure;
-
 import LinkedListStructure.Node;
 import org.junit.Test;
 import static org.junit.Assert.*;

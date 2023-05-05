@@ -1,9 +1,3 @@
-/*
- * Here comes the text of your license
- * Each line should be prefixed with  * 
- */
-package linkedliststructure;
-
 import LinkedListStructure.Queue;
 import org.junit.Test;
 import static org.junit.Assert.*;
